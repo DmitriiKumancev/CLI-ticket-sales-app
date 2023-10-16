@@ -8,8 +8,7 @@ This Go application simulates the ticket purchase process for the "Go Conference
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
